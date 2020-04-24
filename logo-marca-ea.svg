@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.43275452"
-     inkscape:cx="1051.9771"
-     inkscape:cy="739.01907"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="494.0475"
+     inkscape:cy="577.28856"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -59,142 +59,665 @@
     </rdf:RDF>
   </metadata>
   <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="referencias-cores"
+     sodipodi:insensitive="true" />
+  <g
      inkscape:label="Camada 1"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-144.59997)">
-    <rect
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect816"
-       width="64"
-       height="64"
-       x="1088"
-       y="-239.40002" />
-    <rect
-       y="-111.40003"
-       x="1088"
-       height="64"
-       width="64"
-       id="rect818"
-       style="opacity:1;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       y="16.59997"
-       x="1088"
-       height="64"
-       width="64"
-       id="rect820"
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect822"
-       width="64"
-       height="64"
-       x="768"
-       y="336.59998" />
-    <rect
-       y="208.59998"
-       x="1024"
-       height="64"
-       width="64"
-       id="rect826"
-       style="opacity:1;fill:#271f17;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="opacity:1;fill:#fffbf7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect830"
-       width="64"
-       height="64"
-       x="1024"
-       y="592.59998" />
-    <rect
-       y="336.59998"
-       x="1024"
-       height="64"
-       width="64"
-       id="rect832"
-       style="opacity:1;fill:#37afe7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       y="464.59998"
-       x="896"
-       height="64"
-       width="64"
-       id="rect827"
-       style="opacity:1;fill:#bf875f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="opacity:1;fill:#a76f47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect834"
-       width="64"
-       height="64"
-       x="1024"
-       y="464.59998" />
-    <rect
-       style="opacity:1;fill:#6fd7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect825"
-       width="64"
-       height="64"
-       x="896"
-       y="336.59998" />
-    <rect
-       y="336.59998"
-       x="1152"
-       height="64"
-       width="64"
-       id="rect829"
-       style="opacity:1;fill:#1f87af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="opacity:1;fill:#7f472f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect831"
-       width="64"
-       height="64"
-       x="1152"
-       y="464.59998" />
-    <rect
-       y="464.59998"
-       x="768"
-       height="64"
-       width="64"
-       id="rect824"
-       style="opacity:1;fill:#7f471f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       y="-239.40002"
-       x="832"
-       height="64"
-       width="64"
-       id="rect833"
-       style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect835"
-       width="64"
-       height="64"
-       x="832"
-       y="-111.40003" />
-    <rect
-       style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect837"
-       width="64"
-       height="64"
-       x="832"
-       y="16.59997" />
-    <rect
-       style="opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
-       id="rect839"
-       width="64"
-       height="64"
-       x="960"
-       y="-239.40002" />
-    <rect
-       y="-111.40004"
-       x="960"
-       height="64"
-       width="64"
-       id="rect841"
-       style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
-    <rect
-       y="16.599964"
-       x="960"
-       height="64"
-       width="64"
-       id="rect843"
-       style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+    <g
+       id="g2709">
+      <rect
+         transform="translate(0,144.59997)"
+         y="-512"
+         x="640"
+         height="1280"
+         width="672"
+         id="rect836"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.14564395;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+      <g
+         id="g2291">
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+           x="975.72656"
+           y="-295.67615"
+           id="text840"><tspan
+             sodipodi:role="line"
+             id="tspan838"
+             x="975.72656"
+             y="-295.67615">CORES DE CALIBRAGEM</tspan></text>
+        <g
+           id="g2230">
+          <g
+             transform="translate(64)"
+             id="g1246">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7f7f7f;stroke-width:0.53211272;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.53211272, 1.06422542;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1226"
+               width="104"
+               height="368"
+               x="1064"
+               y="-400"
+               transform="translate(0,144.59997)" />
+            <g
+               transform="translate(-9.5107422,-4.2304743)"
+               id="g1456">
+              <rect
+                 y="-243.16956"
+                 x="1065.5107"
+                 height="47.999996"
+                 width="16"
+                 id="rect1419-1"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.43301269;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.43301269, 0.86602538;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke" />
+              <text
+                 transform="rotate(-90)"
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="219.06213"
+                 y="1080"
+                 id="text852"><tspan
+                   id="tspan854"
+                   sodipodi:role="line"
+                   x="219.06213"
+                   y="1080">B W</tspan></text>
+            </g>
+            <g
+               id="g1190"
+               transform="translate(0,0.67748465)">
+              <text
+                 id="text890"
+                 y="-157.6947"
+                 x="1119.9062"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="-157.6947"
+                   x="1119.9062"
+                   id="tspan888"
+                   sodipodi:role="line">PRETO</tspan></text>
+              <rect
+                 y="-240.07751"
+                 x="1088"
+                 height="64"
+                 width="64"
+                 id="rect816"
+                 style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+            </g>
+            <g
+               id="g1195"
+               transform="translate(0,-0.92491708)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="1119.8906"
+                 y="-28.092291"
+                 id="text894"><tspan
+                   sodipodi:role="line"
+                   id="tspan892"
+                   x="1119.8906"
+                   y="-28.092291">CINZA</tspan></text>
+              <rect
+                 style="opacity:1;fill:#7f7f7f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect818"
+                 width="64"
+                 height="64"
+                 x="1088"
+                 y="-110.47511" />
+            </g>
+            <g
+               id="g1220"
+               transform="translate(0,-0.90070711)">
+              <text
+                 id="text898"
+                 y="100.13349"
+                 x="1119.9219"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="100.13349"
+                   x="1119.9219"
+                   id="tspan896"
+                   sodipodi:role="line">BRANCO</tspan></text>
+              <rect
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect820"
+                 width="64"
+                 height="64"
+                 x="1088"
+                 y="17.500677" />
+            </g>
+          </g>
+          <g
+             transform="translate(-64,2.8912353e-6)"
+             id="g1286">
+            <rect
+               style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7f7f7f;stroke-width:0.55219942;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.55219946, 1.10439892;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke"
+               id="rect1222"
+               width="112"
+               height="368"
+               x="800"
+               y="-400"
+               transform="translate(0,144.59997)" />
+            <g
+               transform="translate(-16)"
+               id="g1425">
+              <rect
+                 transform="translate(64,-2.8912353e-6)"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53033012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.53033011, 1.06066021;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect1419"
+                 width="16"
+                 height="72"
+                 x="744"
+                 y="-247.40002" />
+              <text
+                 transform="rotate(-90)"
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="211.27307"
+                 y="822.48926"
+                 id="text844"><tspan
+                   sodipodi:role="line"
+                   id="tspan842"
+                   x="211.27307"
+                   y="822.48926">R G B</tspan></text>
+            </g>
+            <g
+               id="g1180"
+               transform="translate(0,256.67748)">
+              <text
+                 id="text860"
+                 y="-157.6947"
+                 x="863.89844"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="-157.6947"
+                   x="863.89844"
+                   id="tspan858"
+                   sodipodi:role="line">VERMELHO</tspan></text>
+              <rect
+                 style="opacity:1;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect833"
+                 width="64"
+                 height="64"
+                 x="832"
+                 y="-240.07751" />
+            </g>
+            <g
+               id="g1205"
+               transform="translate(0,-0.92491708)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="863.89062"
+                 y="-28.092291"
+                 id="text870"><tspan
+                   sodipodi:role="line"
+                   id="tspan868"
+                   x="863.89062"
+                   y="-28.092291">VERDE</tspan></text>
+              <rect
+                 y="-110.47511"
+                 x="832"
+                 height="64"
+                 width="64"
+                 id="rect835"
+                 style="opacity:1;fill:#00ff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+            </g>
+            <g
+               id="g1210"
+               transform="translate(0,-256.90071)">
+              <text
+                 id="text874"
+                 y="100.13349"
+                 x="863.89844"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="100.13349"
+                   x="863.89844"
+                   id="tspan872"
+                   sodipodi:role="line">AZUL</tspan></text>
+              <rect
+                 y="17.500677"
+                 x="832"
+                 height="64"
+                 width="64"
+                 id="rect837"
+                 style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+            </g>
+          </g>
+          <g
+             id="g1266">
+            <rect
+               y="-400"
+               x="928"
+               height="368"
+               width="112"
+               id="rect1224"
+               style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#7f7f7f;stroke-width:0.55219942;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.55219946, 1.10439891999999995;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke"
+               transform="translate(0,144.59997)" />
+            <g
+               transform="translate(-0.98730469,0.73827566)"
+               id="g1445">
+              <rect
+                 y="-248.13831"
+                 x="920.9873"
+                 height="72"
+                 width="16"
+                 id="rect1419-3"
+                 style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.53033012;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.53033011, 1.06066021;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke" />
+              <text
+                 transform="rotate(-90)"
+                 id="text848"
+                 y="935.47656"
+                 x="211.99182"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="935.47656"
+                   x="211.99182"
+                   id="tspan846"
+                   sodipodi:role="line">C M Y</tspan></text>
+            </g>
+            <g
+               id="g1185"
+               transform="translate(0,128.67748)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="991.92188"
+                 y="-157.6947"
+                 id="text878"><tspan
+                   sodipodi:role="line"
+                   id="tspan876"
+                   x="991.92188"
+                   y="-157.6947">MAGENTA</tspan></text>
+              <rect
+                 y="-240.07751"
+                 x="960"
+                 height="64"
+                 width="64"
+                 id="rect839"
+                 style="opacity:1;fill:#ff00ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+            </g>
+            <g
+               id="g1200"
+               transform="translate(0,-128.92492)">
+              <text
+                 id="text882"
+                 y="-28.092291"
+                 x="991.90625"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 xml:space="preserve"><tspan
+                   y="-28.092291"
+                   x="991.90625"
+                   id="tspan880"
+                   sodipodi:role="line">AMARELO</tspan></text>
+              <rect
+                 style="opacity:1;fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect841"
+                 width="64"
+                 height="64"
+                 x="960"
+                 y="-110.47511" />
+            </g>
+            <g
+               id="g1215"
+               transform="translate(0,-0.90070711)">
+              <text
+                 xml:space="preserve"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                 x="991.89062"
+                 y="100.13349"
+                 id="text886"><tspan
+                   sodipodi:role="line"
+                   id="tspan884"
+                   x="991.89062"
+                   y="100.13349">CIANO</tspan></text>
+              <rect
+                 style="opacity:1;fill:#00ffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                 id="rect843"
+                 width="64"
+                 height="64"
+                 x="960"
+                 y="17.500677" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         transform="translate(0,64)"
+         id="g2174">
+        <g
+           id="g2578">
+          <text
+             xml:space="preserve"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+             x="975.72656"
+             y="243.62146"
+             id="text902"><tspan
+               sodipodi:role="line"
+               id="tspan900"
+               x="975.72656"
+               y="243.62146">CORES DO PROJETO</tspan></text>
+          <g
+             id="g2107">
+            <g
+               id="g2503">
+              <g
+                 id="g2045">
+                <g
+                   transform="translate(0,72.102655)"
+                   id="g1911">
+                  <text
+                     id="text998"
+                     y="474.88013"
+                     x="735.90625"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                     xml:space="preserve"><tspan
+                       id="tspan1010"
+                       y="474.88013"
+                       x="735.90625"
+                       sodipodi:role="line">AZUL</tspan><tspan
+                       id="tspan1014"
+                       y="494.88013"
+                       x="735.90625"
+                       sodipodi:role="line">PRIMÁRIA</tspan></text>
+                  <rect
+                     y="392.49731"
+                     x="704"
+                     height="64"
+                     width="64"
+                     id="rect822"
+                     style="opacity:1;fill:#0000ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                </g>
+                <g
+                   transform="translate(0,60.102655)"
+                   id="g1917">
+                  <text
+                     xml:space="preserve"
+                     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                     x="735.91406"
+                     y="614.88013"
+                     id="text1004"><tspan
+                       sodipodi:role="line"
+                       x="735.91406"
+                       y="614.88013"
+                       id="tspan1002">MARROM</tspan><tspan
+                       id="tspan1016"
+                       sodipodi:role="line"
+                       x="735.91406"
+                       y="634.88013">TERCIÁRIA</tspan></text>
+                  <rect
+                     style="opacity:1;fill:#7f471f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                     id="rect824"
+                     width="64"
+                     height="64"
+                     x="704"
+                     y="532.49731" />
+                </g>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                   x="735.88281"
+                   y="296.59998"
+                   id="text844-8-1"><tspan
+                     sodipodi:role="line"
+                     id="tspan842-3-4"
+                     x="735.88281"
+                     y="296.59998">REF.</tspan></text>
+              </g>
+              <g
+                 id="g2364">
+                <g
+                   id="g2349">
+                  <g
+                     id="g1899"
+                     transform="translate(0,72.102655)">
+                    <text
+                       id="text986"
+                       y="474.88013"
+                       x="889.40918"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       xml:space="preserve"><tspan
+                         id="tspan982"
+                         y="474.88013"
+                         x="889.40918"
+                         sodipodi:role="line">AZUL QUENTE</tspan><tspan
+                         y="494.88013"
+                         x="889.40918"
+                         sodipodi:role="line"
+                         id="tspan984">CLARO</tspan></text>
+                    <rect
+                       style="opacity:1;fill:#6fd7ff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                       id="rect825"
+                       width="64"
+                       height="64"
+                       x="857.51074"
+                       y="392.49731" />
+                  </g>
+                  <g
+                     id="g1905"
+                     transform="translate(0,60.102655)">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       x="889.4248"
+                       y="614.88013"
+                       id="text992"><tspan
+                         sodipodi:role="line"
+                         x="889.4248"
+                         y="614.88013"
+                         id="tspan988">MARROM QUENTE</tspan><tspan
+                         sodipodi:role="line"
+                         x="889.4248"
+                         y="634.88013"
+                         id="tspan990">CLARO</tspan></text>
+                    <rect
+                       y="532.49731"
+                       x="857.51074"
+                       height="64"
+                       width="64"
+                       id="rect827"
+                       style="opacity:1;fill:#bf875f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                  </g>
+                </g>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                   x="889.41498"
+                   y="296.59998"
+                   id="text844-8"><tspan
+                     sodipodi:role="line"
+                     id="tspan842-3"
+                     x="889.41498"
+                     y="296.59998">LUZ</tspan></text>
+              </g>
+              <g
+                 id="g2409">
+                <g
+                   id="g2385">
+                  <g
+                     id="g1893"
+                     transform="translate(0,63.999994)">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       x="1055.8984"
+                       y="354.98279"
+                       id="text906"><tspan
+                         sodipodi:role="line"
+                         id="tspan904"
+                         x="1055.8984"
+                         y="354.98279">PRETO QUENTE</tspan><tspan
+                         sodipodi:role="line"
+                         x="1055.8984"
+                         y="374.98279"
+                         id="tspan926">FOSCO</tspan></text>
+                    <rect
+                       y="272.59998"
+                       x="1024"
+                       height="64"
+                       width="64"
+                       id="rect826"
+                       style="opacity:1;fill:#271f17;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                  </g>
+                  <g
+                     id="g1875"
+                     transform="translate(0,63.999994)">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       x="1055.9141"
+                       y="739.23279"
+                       id="text942-6"><tspan
+                         sodipodi:role="line"
+                         x="1055.9141"
+                         y="739.23279"
+                         id="tspan940-1">BRANCO QUENTE</tspan></text>
+                    <rect
+                       style="opacity:1;fill:#fffbf7;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                       id="rect830"
+                       width="64"
+                       height="64"
+                       x="1024"
+                       y="656.59998" />
+                  </g>
+                  <g
+                     id="g1887"
+                     transform="translate(0,63.999994)">
+                    <text
+                       id="text932"
+                       y="482.98279"
+                       x="1055.8984"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       xml:space="preserve"><tspan
+                         id="tspan930"
+                         y="482.98279"
+                         x="1055.8984"
+                         sodipodi:role="line">AZUL QUENTE</tspan><tspan
+                         y="502.98279"
+                         x="1055.8984"
+                         sodipodi:role="line"
+                         id="tspan962">CLARO</tspan></text>
+                    <rect
+                       y="400.59998"
+                       x="1024"
+                       height="64"
+                       width="64"
+                       id="rect832"
+                       style="opacity:1;fill:#37afe7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                  </g>
+                  <g
+                     id="g1881"
+                     transform="translate(0,63.999994)">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       x="1055.9141"
+                       y="610.98279"
+                       id="text942"><tspan
+                         sodipodi:role="line"
+                         x="1055.9141"
+                         y="610.98279"
+                         id="tspan940">MARROM QUENTE</tspan><tspan
+                         sodipodi:role="line"
+                         x="1055.9141"
+                         y="630.98279"
+                         id="tspan968">CLARO</tspan></text>
+                    <rect
+                       style="opacity:1;fill:#a76f47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke"
+                       id="rect834"
+                       width="64"
+                       height="64"
+                       x="1024"
+                       y="528.59998" />
+                  </g>
+                </g>
+                <text
+                   id="text1413"
+                   y="296.59998"
+                   x="1055.8799"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                   xml:space="preserve"><tspan
+                     y="296.59998"
+                     x="1055.8799"
+                     id="tspan1411"
+                     sodipodi:role="line">REGULAR</tspan></text>
+              </g>
+              <g
+                 id="g2438">
+                <g
+                   id="g2422">
+                  <g
+                     id="g1860"
+                     transform="translate(0,72.102655)">
+                    <text
+                       xml:space="preserve"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       x="1230.4092"
+                       y="474.88013"
+                       id="text974"><tspan
+                         sodipodi:role="line"
+                         x="1230.4092"
+                         y="474.88013"
+                         id="tspan970">AZUL QUENTE</tspan><tspan
+                         id="tspan972"
+                         sodipodi:role="line"
+                         x="1230.4092"
+                         y="494.88013">CLARO</tspan></text>
+                    <rect
+                       y="392.49731"
+                       x="1198.5107"
+                       height="64"
+                       width="64"
+                       id="rect829"
+                       style="opacity:1;fill:#1f87af;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                  </g>
+                  <g
+                     id="g1870"
+                     transform="translate(0,60.102655)">
+                    <text
+                       id="text980"
+                       y="614.88013"
+                       x="1230.4248"
+                       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                       xml:space="preserve"><tspan
+                         id="tspan976"
+                         y="614.88013"
+                         x="1230.4248"
+                         sodipodi:role="line">MARROM QUENTE</tspan><tspan
+                         id="tspan978"
+                         y="634.88013"
+                         x="1230.4248"
+                         sodipodi:role="line">CLARO</tspan></text>
+                    <g
+                       id="g1863">
+                      <rect
+                         y="532.49731"
+                         x="1198.5107"
+                         height="64"
+                         width="64"
+                         id="rect831"
+                         style="opacity:1;fill:#7f472f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.70710677;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0.19813736;stroke-opacity:1;paint-order:markers fill stroke" />
+                    </g>
+                  </g>
+                </g>
+                <text
+                   xml:space="preserve"
+                   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+                   x="1230.4248"
+                   y="296.59998"
+                   id="text1417"><tspan
+                     sodipodi:role="line"
+                     id="tspan1415"
+                     x="1230.4248"
+                     y="296.59998">SOMBRA</tspan></text>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
