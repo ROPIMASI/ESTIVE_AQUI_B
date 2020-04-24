@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35355339"
-     inkscape:cx="494.0475"
-     inkscape:cy="577.28856"
+     inkscape:zoom="0.62700484"
+     inkscape:cx="669.97024"
+     inkscape:cy="353.14485"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -64,7 +64,7 @@
      inkscape:label="referencias-cores"
      sodipodi:insensitive="true" />
   <g
-     inkscape:label="Camada 1"
+     inkscape:label="BaseGps"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-144.59997)">
@@ -719,5 +719,10 @@
         </g>
       </g>
     </g>
+    <path
+       style="opacity:1;fill:#37afe7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99654579;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.99654576, 1.99309151999999989;stroke-dashoffset:0.25;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 120.19407,257.11241 a 192,192 0 0 0 0.0691,271.5152 L 256,664.36449 391.77831,528.58618 a 192,192 0 0 0 -0.0138,-271.51519 l -0.0539,-0.0539 a 192,192 0 0 0 -271.51657,0.0953 z"
+       id="path956"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
